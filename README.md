@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Dhyeyb21
-- 👀 I’m interested in DevOps and Machine Learning
-- 🌱 I’m currently learning Data Structures and Algorithms in Java
+- 👋 Hi, I’m Dhyey Hingarajiya
+- 👀 I’m interested in DevOps.
+- 🌱 I’m currently learning Data Structures and Algorithms.
 - 📫 How to reach me: Twitter: @Dhyey_2005
                        Email: dhyeycoder@gmail.com
 
